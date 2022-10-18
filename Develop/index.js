@@ -80,4 +80,15 @@ const init = () => {
 }
 
 // Function call to initialize app
-init();
+init()
+.then((userInput) => {
+    return generateMarkdown(userInput)
+})
+
+.then((mdInfo) => {
+    return writeFile(mdInfo)
+})
+
+.catch((err) => {
+    console.log(err)
+})
