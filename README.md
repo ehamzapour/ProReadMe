@@ -10,7 +10,7 @@
 * Questions
 
 ## General Information
-This guide will easily and quickly generate a README file by using a command-line application for a developer to focus their time more on coding.
+This application will guide you easily and quickly to generate a README file by using a command-line application so that you can focus their time more on coding.
 
 ## Installation
 Both npm and inquirer need to be installed.
@@ -19,7 +19,7 @@ Both npm and inquirer need to be installed.
 Generate the file from the integrated terminal.
 
 ## License
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributing
 Contact Me.
