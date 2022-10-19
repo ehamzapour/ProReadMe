@@ -6,6 +6,7 @@
 * Usage
 * License
 * Contributing
+* Tests
 * Questions
 
 ## General Information
